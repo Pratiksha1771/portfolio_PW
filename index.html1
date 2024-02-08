@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<!-- Last Published: Tue Jan 23 2024 23:53:25 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.doozy.studio" data-wf-page="63e8f8dccd36781780689110" data-wf-site="62f9f54a992a3bf5aece378a">
+    <head>
+       <meta charset="utf-8"/>
+        <title>Doozy Studio - Brand Design Agency</title>
+        <meta content="One Studio is a cutting-edge design studio committed to reshaping brand identity for the contemporary digital age. Our story is straightforward: envision and redefine." name="description"/>
+        <meta content="Doozy Studio - Brand Design Agency" property="og:title"/>
+        <meta content="One Studio is a cutting-edge design studio committed to reshaping brand identity for the contemporary digital age. Our story is straightforward: envision and redefine." property="og:description"/>
+        <meta content="Doozy Studio - Brand Design Agency" property="twitter:title"/>
+        <meta content="One Studio is a cutting-edge design studio committed to reshaping brand identity for the contemporary digital age. Our story is straightforward: envision and redefine." property="twitter:description"/>
+        <meta property="og:type" content="website"/>
+        <meta content="summary_large_image" name="twitter:card"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta content="SgxSMUoha_5JsdakEyCDAXcjXkryBoJSWkdqwTACV1w" name="google-site-verification"/>
+        <link href="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/css/doozy-studio.webflow.e9cfdfc9b.min.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com" rel="preconnect"/>
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            WebFont.load({
+              google: {
+                    families: ["Oswald:200,300,400,500,600,700", "Taviraj:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic", "Inter:100,200,300,regular,500,600,700,800,900"]
+                }
+            });
+        </script>
+        <script type="text/javascript">
+            !function(o, c) {
+                var n = c.documentElement
+                  , t = " w-mod-";
+                n.className += t + "js",
+                ("ontouchstart"in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+            }(window, document);
+        </script>
+        <link href="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/647342f54eeb1ff94a422ea9_favicon.png" rel="shortcut icon" type="image/x-icon"/>
+        <link href="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64734219bc189674cb84e540_web.png" rel="apple-touch-icon"/>
+        <link href="https://doozy.studio/" rel="canonical"/>
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VZS364GVYX"></script>
+        <script type="text/javascript">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('set', 'developer_id.dZGVlNj', true);
+            gtag('config', 'G-VZS364GVYX');
+        </script>
+        <link rel=“canonical” href=“https://www.doozy.studio/”/>
+    </head>
+    <body class="body">
+        <div data-animation="over-left" class="navbar w-nav" data-easing2="ease" data-easing="ease" data-collapse="all" data-w-id="729e5c8a-9ee6-25ff-6b5d-7f9e60f0e8f4" role="banner" data-no-scroll="1" data-duration="500" data-doc-height="1">
+            <div class="columns-5 w-row">
+                <div class="column-14 w-col w-col-6">
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd.png" loading="lazy" width="100" height="Auto" alt="" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/64faf066abe05eccc88517df_wqqd.png 2288w" sizes="(max-width: 479px) 100vw, (max-width: 1439px) 50.000003814697266px, (max-width: 1919px) 3vw, 50.000003814697266px" class="image-12"/>
+                    <a href="mailto:hello@doozy.studio?subject=Hey%20there!" class="button about _1 nav worklink email w-button">
+                        <span class="text-span-45 email">hello@doozy.studio</span>
+                        <br/>
+                    </a>
+                </div>
+                <div class="column-12 w-col w-col-6">
+                    <a href="/" data-w-id="692b6878-e59e-d271-0ea9-140a4b70568f" aria-current="page" class="button about _1 nav worklink w-button w--current">
+                        <span class="text-span-45">Work</span>
+                        <br/>
+                    </a>
+                    <a href="/about" data-w-id="a279a1c2-8669-15dd-7060-420cb97af0a8" class="button about _1 nav aboutlink w-button">
+                        <span class="text-span-45">About</span>
+                        <br/>
+                    </a>
+                    <a href="/contact" data-w-id="6afbfc27-93b5-28bd-8752-0d84ef80e6c0" class="button about _1 nav worklink w-button">
+                        <span class="text-span-45">Contact</span>
+                        <br/>
+                    </a>
+                </div>
+            </div>
+            <nav role="navigation" class="nav-menu w-nav-menu"></nav>
+        </div>
+        <div class="section-hero">
+            <header class="block-hero">
+                <div>
+                    <h1 data-w-id="8ba175a3-842e-a75a-7609-10cfa7872d14" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="heading-hero header">
+                       We create contemporary brands to shape the future's vision.<br/>
+                    </h1>
+                    <h1 data-w-id="070d820c-0156-1ca8-b007-019bc6a04f2e" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="description-hero">
+                       One Studio is a cutting-edge design studio committed to reshaping brand identity for the contemporary digital age. Our story is straightforward: envision and redefine.<br/>
+                        <br/>
+                    </h1>
+                </div>
+            </header>
+            <div class="block-img-hero">
+                <div class="w-layout-grid grid-img-hero">
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa106b40ed7244fa544d8e_ew.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa106b40ed7244fa544d8e_ew-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa106b40ed7244fa544d8e_ew-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa106b40ed7244fa544d8e_ew.png 1071w" alt="Vam Poster Mockup" class="img-hero-1"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1c1147565ca1fc271ef1_hews.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1c1147565ca1fc271ef1_hews-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1c1147565ca1fc271ef1_hews-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1c1147565ca1fc271ef1_hews-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1c1147565ca1fc271ef1_hews.png 1230w" alt="Mockup Brand Design" class="img-hero-2"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4-p-2600.png 2600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/630a23d5f8104427f9113aa1_4.png 2880w" alt="Parea Brand Identity" class="img-hero-3"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1f22c55f634c9e2fdff7_e.png" loading="eager" width="26" sizes="(max-width: 479px) 0px, 100vw" alt="Poster Brand Identity Design" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1f22c55f634c9e2fdff7_e-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1f22c55f634c9e2fdff7_e-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa1f22c55f634c9e2fdff7_e.png 1128w" class="img-hero-4"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa177147565c433026f1e0_hello.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" id="w-node-_51bd1215-a626-4f61-0106-4a93d5d20dab-80689110" alt="Cannabis Brand Design" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa177147565c433026f1e0_hello-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa177147565c433026f1e0_hello.png 760w" class="img-hero-5"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa178bac242d1fca20e5f1_helloo.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa178bac242d1fca20e5f1_helloo-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa178bac242d1fca20e5f1_helloo.png 551w" alt="Cannabis Logo Design" class="img-hero-6"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa153dd5249364bd51d5f2_1.png" loading="eager" height="210" sizes="(max-width: 479px) 0px, 100vw" alt="Vam Brand Design" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa153dd5249364bd51d5f2_1-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa153dd5249364bd51d5f2_1-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa153dd5249364bd51d5f2_1-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa153dd5249364bd51d5f2_1-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa153dd5249364bd51d5f2_1.png 1906w" class="img-hero-7"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa2079c55f636d6f2fff6d_dsds.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa2079c55f636d6f2fff6d_dsds-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa2079c55f636d6f2fff6d_dsds.png 773w" alt="Spotlight Logo Design" class="img-hero-8"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-2600.png 2600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa196ba3e05d25437b37fb_1%20bag-p-3200.png 3200w" alt="Bag Mockup Design" class="img-hero-9"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa186bccf353977ae83e33_mnene.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa186bccf353977ae83e33_mnene-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa186bccf353977ae83e33_mnene-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa186bccf353977ae83e33_mnene-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa186bccf353977ae83e33_mnene.png 1349w" alt="Coffee Platform Web Design" class="img-hero-10"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-2600.png 2600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa13602a4c4e1c3d500fb1_POSTER%202%202-p-3200.png 3200w" alt="Poster Logo Design" class="img-hero-11"/>
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa213447565c49bb275297_Frame%20479.png" loading="eager" sizes="(max-width: 479px) 0px, 100vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa213447565c49bb275297_Frame%20479-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa213447565c49bb275297_Frame%20479-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa213447565c49bb275297_Frame%20479-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/62fa213447565c49bb275297_Frame%20479.png 1349w" alt="Spekva App Design" class="img-hero-12"/>
+                </div>
+            </div>
+            <div class="hero-sticky"></div>
+        </div>
+        <section class="uui-section_logos01">
+            <div class="clients"></div>
+        </section>
+        <div class="section">
+            <div class="content"></div>
+        </div>
+        <div class="section-2">
+            <div data-w-id="c7677707-67f5-450c-2895-df76867be0f2" class="slide-wrap">
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbc5feca4d41ed79d2a2f_1.png" width="131" alt="Nexttech Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcb8d47966f4c116320c_2.png" alt="10er Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcc01ec666ddf6afd53b_3.png" alt="Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcd70b9eca1e737a9986_4.png" alt="Spekva Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637df2ba5802ea949f842220_12.png" alt="Jorato Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbce63b83de979d76a0cd_5.png" alt="CleverCoffee Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbd0261fa4b4c648ba703_7.png" alt="Parea Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbd0c32261716c693aa7e_8.png" alt="Shoots &#x27;N Leaves Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbd1461fa4b810b8ba79b_9.png" alt="Edge Food Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbc5feca4d41ed79d2a2f_1.png" width="131" alt="Nexttech Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcb8d47966f4c116320c_2.png" alt="10er Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcc01ec666ddf6afd53b_3.png" alt=" Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcd70b9eca1e737a9986_4.png" alt="Spekva Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637df2ba5802ea949f842220_12.png" alt="Jorato Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbce63b83de979d76a0cd_5.png" alt="CleverCoffee Doozy Studio Logo" class="logo-img _50-r-m"/>
+                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbd0261fa4b4c648ba703_7.png" alt="Parea Doozy Studio Logo" class="logo-img _50-r-m"/>
+            </div>
+        </div>
+        <section class="section-11"></section>
+        <section>
+            <div class="w-row">
+                <section class="column-22 w-col w-col-6">
+                    <a href="/falko-brand-identity" class="link-block-4 w-inline-block">
+                        <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52421_Falko.gif" loading="lazy" width="1031" alt="Doozy Studio Falko Brand" class="falko-2"/>
+                        <h1 class="project-headline">
+                            <span class="title-project">Falko Football </span>
+                        </h1>
+                        <p class="paragraph">
+                            <span class="project-description">Undefeated spirit to break all limits</span>
+                        </p>
+                        <div class="div-block-10 space-project"></div>
+                    </a>
+                    <a href="#" target="_blank" class="link-block-4 w-inline-block">
+                        <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter.png" loading="lazy" width="1031" sizes="(max-width: 479px) 100vw, (max-width: 767px) 98vw, (max-width: 991px) 47vw, 48vw" alt="Doozy Studio Parea Brand" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52423_Shouter.png 2037w" class="parea-2"/>
+                        <h1 class="project-headline">
+                            <span class="title-project">Shouter App</span>
+                        </h1>
+                        <p class="paragraph">
+                            <span class="project-description">The fastest local service marketplace in Europe</span>
+                        </p>
+                    </a>
+                </section>
+                <div class="column-21 w-col w-col-6">
+                    <a href="/the-padel-agency" class="link-block-4 w-inline-block">
+                        <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%20Agency%20.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 98vw, (max-width: 991px) 47vw, 48vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%2520Agency%2520-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%2520Agency%2520-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%2520Agency%2520-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%2520Agency%2520-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%2520Agency%2520-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%2520Agency%2520-p-2600.png 2600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a52419_Padel%20Agency%20.png 2717w" alt="Doozy Studio Padel Sport Brand" class="padel-agency-2"/>
+                        <h1 class="project-headline">The Padel Agency</h1>
+                        <p class="paragraph">
+                            <span class="project-description">A cutting-edge and innovative padel center</span>
+                        </p>
+                    </a>
+                    <div class="div-block-10 space-project"></div>
+                    <a href="https://www.instagram.com/p/Cz6VpgPKjUX/?hl=en&amp;img_index=1" target="_blank" class="link-block-4 w-inline-block">
+                        <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b02ce24cb2bd4bf7a5242a_HeptaxArsenalGIF.gif" loading="lazy" alt="Hepta Views Arsenal " class="hattrick-2"/>
+                        <h1 class="project-headline">
+                            <span class="title-project">Hepta x Arsenal FC</span>
+                        </h1>
+                        <p class="paragraph">
+                            <span class="project-description">Heptaviews connecting with the Heart of Arsenal FC &#x27;s Community</span>
+                        </p>
+                    </a>
+                    <h2 class="heading-16"></h2>
+                </div>
+            </div>
+        </section>
+        <section class="section-15">
+            <div id="w-node-ca82b571-cb6c-de12-6bfc-c13d9ae566c4-80689110" class="w-layout-layout quick-stack wf-layout-layout">
+                <div id="w-node-ca82b571-cb6c-de12-6bfc-c13d9ae566c5-80689110" class="w-layout-cell">
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206.png" loading="lazy" sizes="(max-width: 479px) 100vw, 96vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04637a23b4c8498dcec32_Frame%206.png 2625w" alt=""/>
+                </div>
+                <div id="w-node-_4805a4ff-011f-d5ea-0331-3cc38f815d1b-80689110" class="w-layout-cell">
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208.png" loading="lazy" sizes="(max-width: 479px) 100vw, 96vw" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208-p-1600.png 1600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208-p-2000.png 2000w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208-p-2600.png 2600w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b048336ae5a4aba86ee3a9_Frame%208.png 2625w" alt=""/>
+                </div>
+                <div id="w-node-ca82b571-cb6c-de12-6bfc-c13d9ae566c6-80689110" class="w-layout-cell">
+                    <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04821405d01c825938b80_Frame%209.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 1919px) 96vw, 1575.0001220703125px" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04821405d01c825938b80_Frame%209-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04821405d01c825938b80_Frame%209-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04821405d01c825938b80_Frame%209-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b04821405d01c825938b80_Frame%209.png 1575w" alt=""/>
+                </div>
+            </div>
+        </section>
+        <div class="clients">
+            <div class="uui-container-large">
+                <div class="uui-logos03_component">
+                    <div class="uui-logos03_logo-list">
+                        <div id="w-node-_64fed146-d35d-cf00-bed4-cb754e25f8b1-80689110" class="uui-logos03_wrapper"></div>
+                        <div class="uui-logos03_wrapper"></div>
+                        <div class="uui-logos03_wrapper"></div>
+                        <div class="uui-logos03_wrapper"></div>
+                        <div id="w-node-_64fed146-d35d-cf00-bed4-cb754e25f8b9-80689110" class="uui-logos03_wrapper"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="section-14">
+            <div class="w-row">
+                <div class="column-10 w-col w-col-6">
+                    <h2 class="title-4">Services</h2>
+                </div>
+                <div class="container-7 w-col w-col-6">
+                    <div class="columns-2 _3 w-row">
+                        <div class="column-5 w-col w-col-6">
+                            <h3 class="heading-15 _1">DIGITAL</h3>
+                            <div class="text-block-2 digital">
+                                Web design<br/>
+                                <br/>
+                                Motion design<br/>
+                                <br/>
+                                Product design<br/>
+                                <br/>
+                                UI/UX<br/>
+                                <br/>Design systems
+                            </div>
+                        </div>
+                        <div class="w-col w-col-6">
+                            <h3 class="heading-15 _2">DESIGN</h3>
+                            <div class="text-block-2 design">
+                                Brand design<br/>
+                                ‍<br/>
+                                Rebranding<br/>
+                                ‍<br/>
+                                Naming<br/>
+                                ‍<br/>
+                                Typography<br/>
+                                ‍<br/>Brand strategy
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="columns-4 w-row">
+            <div class="column-6 w-col w-col-6">
+                <h2 class="heading-8">
+                    <span class="title-3">Transforming Brands through Design</span>
+                </h2>
+            </div>
+            <div class="column-8 w-col w-col-6">
+                <h3 data-w-id="b4886b6e-01d4-516c-784a-22eeaba5d321" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="heading-8">
+                    Based in Aarhus, Denmark, we are a tiny design studio dedicated to transforming brands. Collaborating closely with companies around the globe, we create captivating designs that bring visions to life and elevate brands. <br/>
+                    ‍<br/>
+                    We build brands, apps and websites. <br/>
+                    What do you have in mind?<br/>
+                    <br/>
+                </h3>
+                <a href="/contact" class="button w-button">Say hello</a>
+            </div>
+        </section>
+        <div class="section-16">
+            <section class="uui-section_logos01">
+                <div class="uui-page-padding">
+                    <section class="uui-container-large">
+                        <div class="uui-text-align-center">
+                            <div class="uui-max-width-large align-center">
+                                <div class="uui-logos01_text">Selected clients</div>
+                            </div>
+                        </div>
+                        <div class="uui-logos01_component">
+                            <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b034cd04e2e2d55d63ba4d_FriBikeShop.png" loading="lazy" srcset="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b034cd04e2e2d55d63ba4d_FriBikeShop-p-500.png 500w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b034cd04e2e2d55d63ba4d_FriBikeShop-p-800.png 800w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b034cd04e2e2d55d63ba4d_FriBikeShop-p-1080.png 1080w, https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/65b034cd04e2e2d55d63ba4d_FriBikeShop.png 2068w" sizes="(max-width: 479px) 100vw, (max-width: 767px) 73vw, (max-width: 1279px) 16vw, 13vw" alt="Edge Food Logo" class="logo2"/>
+                            <div class="uui-logos01_wrapper">
+                                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcd70b9eca1e737a9986_4.png" loading="lazy" alt="Spekva Logo" class="logos"/>
+                            </div>
+                            <div class="uui-logos01_wrapper">
+                                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcb8d47966f4c116320c_2.png" loading="lazy" alt="10er Logo Denmark" class="logos"/>
+                            </div>
+                            <div class="uui-logos01_wrapper">
+                                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbcc01ec666ddf6afd53b_3.png" loading="lazy" alt="Shouter Logo" class="logos shouter"/>
+                            </div>
+                            <div class="uui-logos01_wrapper">
+                                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637df2ba5802ea949f842220_12.png" loading="lazy" alt="Jorato Logo" class="logos"/>
+                            </div>
+                            <div class="uui-logos01_wrapper">
+                                <img src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/637cbc5feca4d41ed79d2a2f_1.png" loading="lazy" alt="Nexttech Kolding Logo" class="logos"/>
+                            </div>
+                            <div class="uui-logos01_wrapper"></div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <footer class="footer-dark">
+            <div class="container-4"></div>
+            <div class="columns-8 w-row">
+                <div class="column-15 w-col w-col-3">
+                    <a href="mailto:hello@doozy.studio" class="button about _1 nav worklink email w-button">hello@doozy.studio</a>
+                </div>
+                <div class="column-20 w-col w-col-9">
+                    <div data-w-id="ac3b1574-8275-da24-bf23-7bab0e708a4c" style="opacity:0" class="footer">
+                        <a href="/about" class="link-footer _1">About</a>
+                        <a href="/contact" class="link-footer _2">Contact</a>
+                        <a href="/terms-conditions" class="link-footer _3">Terms &amp;Conditions</a>
+                        <a href="/privacy-policy" class="link-footer _4">Privacy Policy</a>
+                        <a href="#" class="link-footer _5">CVR: 43420305</a>
+                    </div>
+                </div>
+            </div>
+            <h2 class="heading-14 services">One Studio</h2>
+            <div class="banner-whitelist">
+                <div class="banner-text">
+                    <div data-w-id="871716d9-e6c3-10a1-5003-64c8d98d69a2" style="-webkit-transform:translate3d(-5px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(-5px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(-5px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(-5px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="banner-text-block">DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN * DEADLINES ARE FOR DEAD PEOPLE * WE ARE OPEN *</div>
+                </div>
+            </div>
+        </footer>
+        <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62f9f54a992a3bf5aece378a" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <script src="https://assets-global.website-files.com/62f9f54a992a3bf5aece378a/js/webflow.c377df0f1.js" type="text/javascript"></script>
+    </body>
+</html>
